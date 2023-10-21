@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a M.Sc. Student @ [KUIS AI](https://ai.ku.edu.tr/) - [IUI](https://iui.ku.edu.tr/) labs and currently working on deep learning models for multi-object sketch recognition on scene sketches. 
+
+# 📫 Links
+
+- [CV](https://drive.google.com/drive/folders/1scW_GDmsVzRXL4w1YxuUvRN2mQHHn_U2?usp=share_link)
+- [LinkedIn](https://www.linkedin.com/in/aleynakutuk)
 <!--
 **aleynakutuk6/aleynakutuk6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
